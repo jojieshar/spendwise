@@ -5,6 +5,12 @@ A full-stack expense tracking web app built with **Vanilla PHP**, **SQLite**, **
 
 ---
 
+<img width="1366" height="1204" alt="screencapture-localhost-spendly-expense-tracker-expense-tracker-2026-03-05-15_18_58" src="https://github.com/user-attachments/assets/d5b8aad9-4e7f-4efc-89cc-5da95d336a7b" />
+
+
+
+
+
 ## 🚀 Features
 
 - ✅ Add **income & expenses** with categories
