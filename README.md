@@ -1,5 +1,5 @@
-# spendwise
-# 💰 Spendwise — Expense Tracker
+# spendwisely
+# 💰 Spendwisely — Expense Tracker
 
 A full-stack expense tracking web app built with **Vanilla PHP**, **SQLite**, **CSS**, and **JavaScript**.
 
